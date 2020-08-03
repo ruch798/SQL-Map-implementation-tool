@@ -17,4 +17,5 @@ Website vulnerability is a big issue for people who host their services on the w
   1. Boolean-based blind SQL injection
   2. Union-based SQL injection
   
+  Steps:
   ![](screenshots/1.png)
