@@ -16,3 +16,5 @@ Website vulnerability is a big issue for people who host their services on the w
 - Types of injection techniques implemented: 
   1. Boolean-based blind SQL injection
   2. Union-based SQL injection
+  
+  ![](screenshots/1.png)
