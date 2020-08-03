@@ -18,4 +18,5 @@ Website vulnerability is a big issue for people who host their services on the w
   2. Union-based SQL injection
   
   Steps:
+  
   ![](screenshots/1.png)
