@@ -1,0 +1,13 @@
+#login-email-div{
+    font-size : 12px;
+    color: crimson;
+}
+
+#login-password-div{
+    font-size : 12px;
+    color: crimson;
+}
+
+.hidden{
+    display : none;
+}
